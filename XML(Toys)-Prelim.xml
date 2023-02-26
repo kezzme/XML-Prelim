@@ -1,0 +1,141 @@
+<!--Rosales, Troy Alei-->
+<!--BSIT-3A-->
+
+<toys>
+  <category name="Action Figures">
+    <brand name="Hasbro">
+      <country name="United States">
+        <product name="Transformers">
+          <name>Optimus Prime</name>
+          <price>49.99</price>
+          <description>Transformers action figure toy set</description>
+        </product>
+        <product name="G.I. Joe">
+          <price>29.99</price>
+          <description>G.I. Joe action figure toy set</description>
+        </product>
+        <product name="Zoids">
+          <price>24.99</price>
+          <description>This Alpha Shadow toy comes with a mini Apex figure that can ride on his back!</description>
+        </product>
+      </country>
+    </brand>
+    <brand name="Mattel">
+      <country name="America">
+        <product name="Masters of the Universe">
+          <name>He-Man</name>
+          <price>39.99</price>
+          <description>Masters of the Universe action figure toy set.</description>
+        </product>
+      </country>
+    </brand>
+  </category>
+  <category name="Building Sets">
+    <brand name="LEGO">
+      <country name="Denmark">
+        <product name="Star Wars">
+          <price>79.99</price>
+          <description>LEGO Star Wars building set.</description>
+        </product>
+        <product name="Ninjago">
+          <price>49.99</price>
+          <description>LEGO Ninjago building set</description>
+        </product>
+    </country>
+      <country name="United States">
+        <product name="Disney 100th Celebration">
+          <price>39.99</price>
+          <description>The set makes a fun, collectible gift for Disney fans.</description>
+        </product>
+      </country>
+    </brand>
+    <brand name="Mega Bloks">
+      <country name="Denmark">
+        <product name="Halo">
+          <price>39.99</price>
+          <description>Mega Bloks Halo building set</description>
+        </product>
+      </country>
+    </brand>
+  </category>
+  <category name="Dolls">
+    <brand name="Barbie">
+      <country name="United Kingdom">
+        <product name="Fashionista">
+          <name>Barbie</name>
+          <price>24.99</price>
+          <description>Barbie Fashionista doll with various clothing and accessories</description>
+        </product>
+        <product name="Dreamhouse">
+          <price>199.99</price>
+          <description>Barbie Dreamhouse playset with multiple rooms and accessories</description>
+        </product>
+        <product name="Ken Doll">
+          <price>10.99</price>
+          <description>Celebrate the Kencore fashion trend with the original inspiration.</description>
+        </product>
+      </country>
+    </brand>
+    <brand name="American Girl">
+      <country name="United States">
+        <product name="Bitty Baby">
+          <price>69.99</price>
+          <description>American Girl Bitty Baby doll with accessories and clothing</description>
+        </product>
+      </country>
+    </brand>
+  </category>
+  <category name="Board Games">
+    <brand name="Hasbro">
+      <country name="United States">
+        <product name="Monopoly">
+          <price>19.99</price>
+          <description>Classic Monopoly board game</description>
+        </product>
+        <product name="Scrabble">
+         <price>14.99</price>
+          <description>Classic Scrabble board game</description>
+        </product>
+        <product name="Flying Chess">
+          <price>5.99</price>
+          <description>Roll the dice, get points, and exchange points for steps.</description>
+          <description>Exercise your child's hand-eye coordination and competitive flying chess.</description>
+        </product>
+      </country>
+    </brand>
+    <brand name="Philippe Keyearts">
+      <country name="New York">
+        <product name="Small World">
+          <price>49.99</price>
+          <description>Space is getting tight in Small World. There are just too many races living off your land - land your ancestors bequeathed to you in hopes you would build an empire with which you could dominate the world. </description>
+        </product>
+      </country>
+    </brand>
+  </category>
+  <category name="Outdoor Toys">
+    <brand name="Nerf">
+      <country name="United States">
+        <product name="N-Strike Elite">
+          <price>19.99</price>
+          <description>Nerf N-Strike Elite blaster</description>
+        </product>
+        <product name="Rival">
+          <price>29.99</price>
+          <description>Nerf Rival blaster</description>
+        </product>
+        <product name="Octagonal Trampoline">
+          <price>109.99</price>
+          <description>Our designers created this 3-metre / 10ft trampoline so your child can safely learn basic jumps!This 3 m Decathlon trampoline is guaranteed to be completely safe thanks to its safety cushions and net.</description>
+        </product>
+      </country>
+    </brand>
+    <brand name="Razor">
+      <country name="California">
+        <product name="A5 Lux">
+          <price>99.99</price>
+          <description>Razor A5 Lux kick scooter</description>
+        </product>
+      </country>
+    </brand>
+  </category>
+</toys>
